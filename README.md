@@ -1,16 +1,15 @@
-## Hi there 👋
+# André
 
-<!--
-**AndreNardi0/AndreNardi0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineering student working toward becoming a full-stack developer. I'm interested in web development, learning new technologies, and building practical projects that strengthen my skills.
 
-Here are some ideas to get you started:
+## Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Java** — Currently learning
+- **Python** — Currently learning
+- **Lua** — Currently learning
+- **SQL** — Currently learning
+
+## Experience
+
+- Built a website for **Alpha Invest**.
+- Continuously gaining hands-on experience through college coursework and projects.
